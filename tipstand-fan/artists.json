@@ -1,0 +1,100 @@
+[
+    {
+        "id": "c48817f1-8c4d-4f6f-88d5-c14154c70c66",
+        "name": "Aiden Harris",
+        "profileAvatar": "aiden-harris-profile-avatar",
+        "externalLinksRowOne": ["spotify", "appleMusic", "instagram"],
+        "externalLinksRowTwo": ["twitter","tiktok","website"],
+        "bio": "Hey, my name is Aiden, and this is my artist page. I'm incredibly lucky to have some really talented artists making great music with me. We play almost every night, come catch us out at Wild Boar's Pub Mondays and Tuesdays!",
+        "showRoster": [
+            {
+                "venue": {
+                    "name": "Wild Boar's Pub",
+                    "address": "3001 Cedar St, Austin TX 78705",
+                    "coordinatesLat": 30.2950,
+                    "coordinatesLong": -97.7380
+                },
+                "dateStart": "2020-01-06'T'18:00:00",
+                "dateEnd": "2020-01-06'T'20:00:00"
+            },
+            {
+                "venue": {
+                    "name": "Wild Boar's Pub",
+                    "address": "3001 Cedar St, Austin TX 78705",
+                    "coordinatesLat": 30.2950,
+                    "coordinatesLong": -97.7380
+                },
+                "dateStart": "2020-01-07'T'18:00:00",
+                "dateEnd": "2020-01-07'T'20:00:00"
+            },
+            {
+                "venue": {
+                    "name": "Wild Boar's Pub",
+                    "address": "3001 Cedar St, Austin TX 78705",
+                    "coordinatesLat": 30.2950,
+                    "coordinatesLong": -97.7380
+                },
+                "dateStart": "2020-01-13'T'18:00:00",
+                "dateEnd": "2020-01-13'T'20:00:00"
+            },
+            {
+                "venue": {
+                    "name": "Wild Boar's Pub",
+                    "address": "3001 Cedar St, Austin TX 78705",
+                    "coordinatesLat": 30.2950,
+                    "coordinatesLong": -97.7380
+                },
+                "dateStart": "2020-01-14'T'18:00:00",
+                "dateEnd": "2020-01-14'T'20:00:00"
+            }
+        ]
+    },
+    {
+        "id": "6bab0d9b-07a1-4ac7-9519-1746f60fa4da",
+        "name": "Buck Allen",
+        "profileAvatar": "buck-allen-profile-avatar",
+        "externalLinksRowOne": [
+            "appleMusic",
+            "spotify",
+            "twitter"
+        ],
+        "externalLinksRowTwo": [
+            "instagram",
+            "website",
+            "tiktok"
+        ],
+        "bio": "Name's Buck Allen. I play guitar and sing about my pain. My guitar is my life, but so is my daily massage. Loves coffee but hates Folger's so don't even try. I'd love to connect with you as a human so please come out to PepsiCola's Coachella Rodeo Bonanza and meet* me (VIP pass for the Platinum wristband required. Platinum wristband alone will not grant access to meet Buck Allen. All VIP products are non-refundable. Buck Allen may cancel at any time and a VIP pass does not constitute or imply a promise to fulfill product features.)",
+        "showRoster": [
+            {
+                "venue": {
+                    "name": "PepsiCola's Coachella Day 1",
+                    "address": "Catheys Valley, CA  95306",
+                    "coordinatesLat": 37.5128,
+                    "coordinatesLong": -120.1984
+                },
+                "dateStart": "2020-06-22'T'12:30:00",
+                "dateEnd": "2020-06-22'T'02:30:00"
+            },
+            {
+                "venue": {
+                    "name": "PepsiCola's Coachella Day 2",
+                    "address": "Catheys Valley, CA  95306",
+                    "coordinatesLat": 37.5128,
+                    "coordinatesLong": -120.1984
+                },
+                "dateStart": "2020-06-23'T'02:30:00",
+                "dateEnd": "2020-06-23'T'04:00:00"
+            },
+            {
+                "venue": {
+                    "name": "PepsiCola's Coachella Day 3",
+                    "address": "Catheys Valley, CA  95306",
+                    "coordinatesLat": 37.5128,
+                    "coordinatesLong": -120.1984
+                },
+                "dateStart": "2020-06-24'T'22:30:00",
+                "dateEnd": "2020-06-25'T'02:30:00"
+            }
+        ]
+    }
+]
